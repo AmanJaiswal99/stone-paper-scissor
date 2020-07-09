@@ -1,0 +1,29 @@
+.container-1{
+    text-align: center;
+     border: 1px black solid;
+     width: 75%;
+     margin: 0 auto;
+}
+
+.flexbox{
+    display: flex;
+    border: black 1px solid;
+    padding: 10px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.flexbox img{
+    padding: 3px;
+}
+
+.flexbox img:hover{
+    box-shadow: 0px 10px 50px blue;
+}
+
+.aman{
+    padding: 10px;
+}
+
+
+
